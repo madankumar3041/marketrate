@@ -1,0 +1,11 @@
+.main-gate{
+    height: 53px;
+    width: auto;
+    background: blueviolet;
+}
+.main-dashed{
+    padding: 12px;
+    text-decoration-line: none;
+    color: white;
+    float: left;
+}

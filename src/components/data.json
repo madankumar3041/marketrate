@@ -1,0 +1,29 @@
+// {
+//     "message":"successfully fetched",
+//     "data":{
+//        "amazon_data":{
+//           "products":{
+//              "product_name":"Freedom Refined Sunflower Oil 1L",
+//              "product_price":"1.2$",
+//              "availabelity_status":"product not found in search result ",
+//              "delivery_estimation":"N/A"
+//           }
+//        },
+//        "bb_data":{
+//           "products":{
+//              "product_name":"Freedom Refined Sunflower Oil 1L",
+//              "product_price":"1.4$",
+//              "availabelity_status":"product not found in search result ",
+//              "delivery_estimation":"N/A"
+//           }
+//        },
+//        "jio_data":{
+//           "products":{
+//              "product_name":"Freedom Refined Sunflower Oil 1L",
+//              "product_price":"1.3$",
+//              "availabelity_status":"product not found in search result ",
+//              "delivery_estimation":"N/A"
+//           }
+//        }
+//     },"status":"success"
+//  }

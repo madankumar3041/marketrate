@@ -1,0 +1,14 @@
+.table {
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+th {
+  width: 281px;
+  background: #ccccff;  
+}
+.row {
+  margin-top: 59px;
+  height: 309px;
+}
